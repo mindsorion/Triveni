@@ -8,8 +8,8 @@ Foodie.
 
 Home
 About Us
-Shop
-Blog
+Locations
+Order Online
 Contact Us
 
 aria-label = Search
@@ -38,7 +38,7 @@ aria-label = Submit search
 
 Eat Sleep And
 
-Supper delicious Burger in town!
+Youe One stop shop!
 
 Food is any substance consumed to
 provide nutritional support for an organism.
