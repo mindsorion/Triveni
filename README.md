@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Foodie - Fast food website</h2>
+  <h2 align="center">Triveni Super Market website</h2>
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Triveni is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
 
