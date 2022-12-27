@@ -1,10 +1,10 @@
-Foodie. - Supper delicious Burger in town!
+Exotica - Super delicius authentic Indian food in town!
 
 
 
 #---------- HEADER ----------#
 
-Foodie.
+Exotica
 
 Home
 About Us
@@ -36,7 +36,7 @@ aria-label = Submit search
 
 #---------- HERO ----------#
 
-Eat Sleep And
+
 
 Youe One stop shop!
 
@@ -70,20 +70,18 @@ alt = Burger with Drinks
 
 alt = get up to 50% off now
 
-Foodie, Burgers, and Best Pizzas in Town!
+Exotia, Burgers, and Best Pizzas in Town!
 
-The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+At [restaurant name], we pride ourselves on serving the finest Indian cuisine in a warm and friendly atmosphere. Our menu features a variety of dishes from different regions of India, all made with the freshest ingredients and authentic spices. Come and join us for a memorable dining experience that celebrates the diverse and delicious flavors of India.
 
 <ion-icon name="checkmark-outline"></ion-icon>
-Delicious & Healthy Foods
+Authentic Indian flavors
+Exotic culinary journey
+Vibrant dining experience
+Delicious and diverse
 
-Spacific Family And Kids Zone
 
-Music & Other Facilities
-
-Fastest Food Home Delivery
-
-Order Now
+Reserve Now
 
 
 
@@ -173,9 +171,9 @@ $69.00
 
 #---------- CTA ----------#
 
-The Foodie Have Excellent Of Quality Burgers!
+The Exotia Have Excellent Of Quality Burgers!
 
-The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+At [restaurant name], we pride ourselves on serving the finest Indian cuisine in a warm and friendly atmosphere. Our menu features a variety of dishes from different regions of India, all made with the freshest ingredients and authentic spices. Come and join us for a memorable dining experience that celebrates the diverse and delicious flavors of India.
 
 Order Now
 
@@ -189,7 +187,7 @@ alt = get up to 50% off now
 
 A Moments Of Delivered On Right Time & Place
 
-The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+At [restaurant name], we pride ourselves on serving the finest Indian cuisine in a warm and friendly atmosphere. Our menu features a variety of dishes from different regions of India, all made with the freshest ingredients and authentic spices. Come and join us for a memorable dining experience that celebrates the diverse and delicious flavors of India.
 
 Order Now
 
@@ -291,7 +289,7 @@ Chicken
 
 #---------- FOOTER ----------#
 
-Foodie.
+Exotica
 
 Financial experts support or help you to to find out which way you can raise your funds more.
 
